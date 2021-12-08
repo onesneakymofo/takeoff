@@ -1,0 +1,8 @@
+{
+  "name": "the-number-one",
+  "version": "1.0.1",
+  "description": "\"The number one\"",
+  "main": "index.js",
+  "license": "MIT",
+  "private": true
+}
