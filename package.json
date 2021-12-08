@@ -22,7 +22,7 @@
   "scripts": {
     "build": "preconstruct build",
     "postinstall": "preconstruct dev",
-    "release": "preconstruct build && yarn publish --access=public"
+    "release": "preconstruct build && changeset publish"
   },
   "preconstruct": {
     "packages": [

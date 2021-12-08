@@ -2,7 +2,7 @@
   "name": "the-number-one",
   "version": "1.0.2",
   "description": "\"The number one\"",
-  "main": "index.js",
+  "main": "dist/the-number-one.cjs.js",
   "license": "MIT",
   "private": true
 }
