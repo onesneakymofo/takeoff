@@ -6,6 +6,8 @@
 
 - Change int to string
 
+## 1.0.4
+
 ### Patch Changes
 
 - 9146760: Add manypkg
