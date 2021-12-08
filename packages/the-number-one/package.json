@@ -1,8 +1,9 @@
 {
   "name": "the-number-one",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "\"The number one\"",
   "main": "dist/the-number-one.cjs.js",
   "license": "MIT",
-  "private": true
+  "private": true,
+  "repository": "null//github.com/onesneakymofo/takeoff/tree/master/packages/the-number-one"
 }

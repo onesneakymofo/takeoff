@@ -1,5 +1,11 @@
 # the-number-two
 
+## 1.0.3
+
+### Patch Changes
+
+- "Add repositories to packages"
+
 ## 1.0.2
 
 ### Patch Changes

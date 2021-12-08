@@ -4,7 +4,7 @@
   "description": "Landing's Component Library",
   "main": "dist/takeoff.cjs.js",
   "module": "dist/takeoff.esm.js",
-  "repository": "git@github.com:onesneakymofo/takeoff.git",
+  "repository": "null//github.com/onesneakymofo/takeoff",
   "author": "Chris Autwell <cautwell@gmail.com>",
   "license": "MIT",
   "private": true,
@@ -14,15 +14,10 @@
   "workspaces": [
     "packages/*"
   ],
-  "devDependencies": {
-    "@babel/core": "^7.16.0",
-    "@babel/preset-env": "^7.16.4",
-    "@preconstruct/cli": "^2.1.5"
-  },
   "scripts": {
     "build": "preconstruct build",
-    "postinstall": "preconstruct dev",
-    "release": "preconstruct build && changeset publish"
+    "postinstall": "preconstruct dev && manypkg check",
+    "release": "yarn build && changeset publish"
   },
   "preconstruct": {
     "packages": [
@@ -30,6 +25,10 @@
     ]
   },
   "dependencies": {
-    "@changesets/cli": "^2.18.1"
+    "@babel/core": "^7.16.0",
+    "@babel/preset-env": "^7.16.4",
+    "@changesets/cli": "^2.18.1",
+    "@manypkg/cli": "^0.19.1",
+    "@preconstruct/cli": "^2.1.5"
   }
 }
