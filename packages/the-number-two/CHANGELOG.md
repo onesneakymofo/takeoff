@@ -1,5 +1,15 @@
 # the-number-two
 
+## 1.1.0
+
+### Minor Changes
+
+- Change int to string
+
+### Patch Changes
+
+- 9146760: Add manypkg
+
 ## 1.0.3
 
 ### Patch Changes
