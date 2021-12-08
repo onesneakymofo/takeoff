@@ -47,7 +47,7 @@ jobs:
         run: yarn build
 
       - name: Publish packages
-        uses: changesets/action@master
+        uses: changesets/action@v1
         with:
           publish: yarn release
           commit: "chore(release): version packages"
