@@ -1,10 +1,13 @@
 {
   "name": "@onesneakymofo/takeoff",
-  "version": "1.0.1",
+  "version": "1.0.0",
   "description": "Landing's Component Library",
   "main": "dist/takeoff.cjs.js",
   "module": "dist/takeoff.esm.js",
-  "repository": "null//github.com/onesneakymofo/takeoff",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/onesneakymofo/takeoff.git"
+  },
   "author": "Chris Autwell <cautwell@gmail.com>",
   "license": "MIT",
   "private": true,

@@ -5,5 +5,9 @@
   "main": "dist/the-number-one.cjs.js",
   "license": "MIT",
   "private": true,
-  "repository": "null//github.com/onesneakymofo/takeoff/tree/master/packages/the-number-one"
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/onesneakymofo/takeoff.git",
+    "directory": "packages/the-number-one"
+  },
 }
