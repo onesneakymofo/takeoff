@@ -1,5 +1,11 @@
 # the-number-two
 
+## 1.0.4
+
+### Patch Changes
+
+- 9146760: Add manypkg
+
 ## 1.0.3
 
 ### Patch Changes
