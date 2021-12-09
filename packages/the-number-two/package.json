@@ -1,6 +1,6 @@
 {
   "name": "the-number-two",
-  "version": "1.1.0",
+  "version": "1.2.0",
   "description": "\"The number two\"",
   "main": "dist/the-number-two.cjs.js",
   "license": "MIT",
