@@ -21,7 +21,8 @@
     "build": "preconstruct build",
     "postinstall": "preconstruct dev && manypkg check",
     "release": "yarn build && changeset publish",
-    "test": "jest"
+    "test": "jest",
+    "lint": "yarn eslint ."
   },
   "preconstruct": {
     "packages": [
