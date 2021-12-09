@@ -4,7 +4,9 @@
   "description": "\"The number two\"",
   "main": "dist/the-number-two.cjs.js",
   "license": "MIT",
-  "private": true,
+  "publishConfig": {
+    "access": "public"
+  },
   "repository": {
     "type": "git",
     "url": "git+https://github.com/onesneakymofo/takeoff.git",
