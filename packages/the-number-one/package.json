@@ -1,6 +1,6 @@
 {
   "name": "@onesneakymofo/the-number-one",
-  "version": "1.2.0",
+  "version": "2.0.0",
   "description": "\"The number one\"",
   "main": "dist/onesneakymofo-the-number-one.cjs.js",
   "license": "MIT",
