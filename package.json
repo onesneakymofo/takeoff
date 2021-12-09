@@ -20,7 +20,9 @@
   "scripts": {
     "build": "preconstruct build",
     "postinstall": "preconstruct dev && manypkg check",
-    "release": "yarn build && changeset publish"
+    "release": "yarn build && changeset publish",
+    "test": "jest",
+    "lint": "yarn eslint ."
   },
   "preconstruct": {
     "packages": [
@@ -32,6 +34,8 @@
     "@babel/preset-env": "^7.16.4",
     "@changesets/cli": "^2.18.1",
     "@manypkg/cli": "^0.19.1",
-    "@preconstruct/cli": "^2.1.5"
+    "@preconstruct/cli": "^2.1.5",
+    "eslint": "6.8.0",
+    "jest": "^27.4.3"
   }
 }

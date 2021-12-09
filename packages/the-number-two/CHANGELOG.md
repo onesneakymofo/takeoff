@@ -1,5 +1,11 @@
 # the-number-two
 
+## 1.1.0
+
+### Minor Changes
+
+- Change int to string
+
 ## 1.0.4
 
 ### Patch Changes
