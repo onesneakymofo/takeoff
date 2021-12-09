@@ -1,0 +1,21 @@
+{
+  "name": "@onesneakymofo/test-load-spinner",
+  "version": "0.0.1",
+  "description": "Landing's Spinner Component",
+  "main": "dist/onesneakymofo-test-load-button.cjs.js",
+  "author": "Chris Autwell",
+  "license": "MIT",
+  "publishConfig": {
+    "access": "public"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/onesneakymofo/takeoff.git",
+    "directory": "packages/LoadSpinner"
+  },
+  "dependencies": {
+    "react": "^17.0.2",
+    "@emotion/styled": "^11.6.0",
+    "twin.macro": "^2.8.2"
+  }
+}
