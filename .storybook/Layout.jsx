@@ -1,4 +1,4 @@
-import 'tailwindcss/tailwind.css'
+import '../styles/main.css'
 
 export const Layout = ({ children }) => (
   <>
