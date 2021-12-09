@@ -2,7 +2,7 @@
   "name": "@onesneakymofo/the-number-two",
   "version": "1.2.0",
   "description": "\"The number two\"",
-  "main": "dist/the-number-two.cjs.js",
+  "main": "dist/onesneakymofo-the-number-two.cjs.js",
   "license": "MIT",
   "publishConfig": {
     "access": "public"
