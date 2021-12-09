@@ -1,5 +1,16 @@
 # the-number-two
 
+## 2.0.0
+
+### Major Changes
+
+- 58e4cd3: Fix invalid characters
+
+### Patch Changes
+
+- 017421a: Fix distr error
+- 4d3b606: Change package names
+
 ## 1.2.0
 
 ### Minor Changes
