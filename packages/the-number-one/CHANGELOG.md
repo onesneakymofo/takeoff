@@ -1,5 +1,16 @@
 # the-number-one
 
+## 2.0.0
+
+### Major Changes
+
+- 58e4cd3: Fix invalid characters
+
+### Patch Changes
+
+- c5cf5b1: Change package name
+- 017421a: Fix distr error
+
 ## 1.2.0
 
 ### Minor Changes
