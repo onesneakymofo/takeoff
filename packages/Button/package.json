@@ -1,9 +1,9 @@
 {
   "name": "@onesneakymofo/test-button",
   "version": "0.0.1",
-  "description": "\"Landing's Button Component\"",
+  "description": "Landing's Button Component",
   "main": "dist/onesneakymofo-test-button.cjs.js",
-  "main": "index.js",
+  "module": "dist/onesneakymofo-test-button.esm.js",
   "author": "Chris Autwell",
   "license": "MIT",
   "publishConfig": {
@@ -15,8 +15,9 @@
     "directory": "packages/Button"
   },
   "dependencies": {
-    "react": "^17.0.2",
     "@emotion/styled": "^11.6.0",
-    "twin.macro": "^2.8.2"
+    "react": "^17.0.2",
+    "twin.macro": "^2.8.2",
+    "@onesneakymofo/test-spinner": "^0.0.1"
   }
 }
