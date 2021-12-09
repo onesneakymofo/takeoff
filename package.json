@@ -36,6 +36,7 @@
     "@manypkg/cli": "^0.19.1",
     "@preconstruct/cli": "^2.1.5",
     "eslint": "6.8.0",
-    "jest": "^27.4.3"
+    "jest": "^27.4.3",
+    "react": "^17.0.2"
   }
 }
