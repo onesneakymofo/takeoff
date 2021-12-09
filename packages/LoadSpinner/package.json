@@ -1,6 +1,6 @@
 {
   "name": "@onesneakymofo/test-load-spinner",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "Landing's Spinner Component",
   "main": "dist/onesneakymofo-test-load-spinner.cjs.js",
   "module": "dist/onesneakymofo-test-load-spinner.esm.js",
