@@ -1,4 +1,4 @@
-import { CSSProperties } from 'react'
+import React, { CSSProperties } from 'react'
 import { theme } from 'twin.macro'
 
 import { SpinLoader } from './LoadSpinner.styles'

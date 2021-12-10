@@ -29,6 +29,11 @@
       "packages/*"
     ]
   },
+  "babelMacros": {
+    "twin": {
+      "preset": "emotion"
+    }
+  },
   "dependencies": {
     "@babel/core": "^7.16.0",
     "@babel/eslint-parser": "^7.16.3",

@@ -14,9 +14,14 @@
     "url": "git+https://github.com/onesneakymofo/takeoff.git",
     "directory": "packages/Button"
   },
+  "babelMacros": {
+    "twin": {
+      "preset": "emotion"
+    }
+  },
   "dependencies": {
     "@emotion/styled": "^11.6.0",
-    "@onesneakymofo/test-load-spinner": "^0.0.2",
+    "@onesneakymofo/test-load-spinner": "~0.0.2",
     "react": "^17.0.2",
     "twin.macro": "^2.8.2"
   }
