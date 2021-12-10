@@ -1,6 +1,6 @@
 {
   "name": "@onesneakymofo/test-button",
-  "version": "0.0.3",
+  "version": "0.0.4",
   "description": "Landing's Button",
   "main": "dist/onesneakymofo-test-button.cjs.js",
   "module": "dist/onesneakymofo-test-button.esm.js",
@@ -25,7 +25,7 @@
     "twin.macro": "^2.8.2"
   },
   "dependencies": {
-    "@onesneakymofo/test-load-spinner": "~0.0.3"
+    "@onesneakymofo/test-load-spinner": "~0.0.4"
   },
   "peerDependencies": {
     "@emotion/styled": ">=11.6.0",
