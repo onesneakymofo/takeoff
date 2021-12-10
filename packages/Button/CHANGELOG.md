@@ -1,5 +1,12 @@
 # @onesneakymofo/test-button
 
+## 0.0.5
+
+### Patch Changes
+
+- b6e3ff0: Drop proptypes and change defaults
+- c0df2e4: Convert to plain button
+
 ## 0.0.4
 
 ### Patch Changes

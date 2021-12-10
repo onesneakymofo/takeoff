@@ -1,6 +1,6 @@
 {
   "name": "@onesneakymofo/test-button",
-  "version": "0.0.4",
+  "version": "0.0.5",
   "description": "Landing's Button",
   "main": "dist/onesneakymofo-test-button.cjs.js",
   "module": "dist/onesneakymofo-test-button.esm.js",
