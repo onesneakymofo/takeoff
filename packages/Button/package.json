@@ -19,13 +19,17 @@
       "preset": "emotion"
     }
   },
-  "dependencies": {
+  "devDependencies": {
     "@emotion/styled": "^11.6.0",
-    "@onesneakymofo/test-load-spinner": "~0.0.3",
     "react": "^17.0.2",
     "twin.macro": "^2.8.2"
   },
+  "dependencies": {
+    "@onesneakymofo/test-load-spinner": "~0.0.3"
+  },
   "peerDependencies": {
-    "react": ">=16.12.0"
+    "@emotion/styled": ">=11.6.0",
+    "react": ">=16.12.0",
+    "twin.macro": ">=2.8.2"
   }
 }
