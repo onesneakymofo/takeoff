@@ -1,7 +1,7 @@
 import styled, { CSSObject } from '@emotion/styled'
 import React, { ButtonHTMLAttributes, Fragment, PropsWithChildren, useMemo } from 'react'
 import tw, { theme } from 'twin.macro'
-import { LoadSpinner } from '@onesneakymofo/test-spinner'
+import { LoadSpinner } from '@onesneakymofo/test-load-spinner'
 
 import { sizes, variants } from './Button.data'
 
