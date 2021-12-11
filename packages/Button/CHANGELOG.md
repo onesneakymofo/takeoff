@@ -1,5 +1,13 @@
 # @onesneakymofo/test-button
 
+## 0.0.6
+
+### Patch Changes
+
+- 501d71d: Add extra dependencies and configuration
+- Updated dependencies [501d71d]
+  - @onesneakymofo/test-load-spinner@0.0.5
+
 ## 0.0.5
 
 ### Patch Changes

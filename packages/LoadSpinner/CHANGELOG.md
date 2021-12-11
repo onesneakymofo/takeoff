@@ -1,5 +1,11 @@
 # @onesneakymofo/test-load-spinner
 
+## 0.0.5
+
+### Patch Changes
+
+- 501d71d: Add extra dependencies and configuration
+
 ## 0.0.4
 
 ### Patch Changes
