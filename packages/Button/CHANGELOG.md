@@ -1,5 +1,28 @@
 # @onesneakymofo/test-button
 
+## 0.0.7
+
+### Patch Changes
+
+- fafb568: Add tsconfig.json to packages
+- Updated dependencies [fafb568]
+  - @onesneakymofo/test-load-spinner@0.0.6
+
+## 0.0.6
+
+### Patch Changes
+
+- 501d71d: Add extra dependencies and configuration
+- Updated dependencies [501d71d]
+  - @onesneakymofo/test-load-spinner@0.0.5
+
+## 0.0.5
+
+### Patch Changes
+
+- b6e3ff0: Drop proptypes and change defaults
+- c0df2e4: Convert to plain button
+
 ## 0.0.4
 
 ### Patch Changes

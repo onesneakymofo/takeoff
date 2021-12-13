@@ -14,9 +14,15 @@
   "publishConfig": {
     "access": "public"
   },
-  "workspaces": [
-    "packages/*"
-  ],
+  "workspaces": {
+    "packages": [
+      "packages/*"
+    ],
+    "nohoist": [
+      "**/@tailwindcss",
+      "**/@tailwindcss/**"
+    ]
+  },
   "scripts": {
     "build": "preconstruct build",
     "postinstall": "preconstruct dev && manypkg check",
