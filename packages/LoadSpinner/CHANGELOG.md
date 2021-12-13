@@ -1,5 +1,13 @@
 # @onesneakymofo/test-load-spinner
 
+## 0.0.7
+
+### Patch Changes
+
+- 0d602d2: Update package.json
+- Updated dependencies [0d602d2]
+  - @onesneakymofo/test-load-spinner@0.0.7
+
 ## 0.0.6
 
 ### Patch Changes
