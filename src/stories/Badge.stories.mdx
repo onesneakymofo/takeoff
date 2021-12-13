@@ -1,0 +1,18 @@
+import { Meta, Canvas, Story, ArgsTable } from '@storybook/addon-docs'
+import { Badge } from '../../packages/Badge'
+
+<Meta title="Components/Badge" component={Badge} />
+
+# Badge
+
+`<Badge/>` is a reusable component, typically used for displaying `Premier` homes. Use the controls to change the text, and color of the badge.
+
+export const Template = (args) => <Badge {...args} />
+
+<Canvas>
+  <Story name="Badge" args={{ children: 'STORYBOOK BADGE', className: 'bg-green-500' }}>
+    {Template.bind({})}
+  </Story>
+</Canvas>
+
+<ArgsTable story="Badge" />
