@@ -26,8 +26,6 @@
     "twin.macro": "^2.8.2"
   },
   "dependencies": {
-    "@onesneakymofo/test-button": "~0.0.6"
-    "@onesneakymofo/test-load-spinner": "~0.0.6"
     "@onesneakymofo/test-load-spinner": "~0.0.6"
   },
   "peerDependencies": {
