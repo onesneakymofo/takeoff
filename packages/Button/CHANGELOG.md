@@ -1,5 +1,13 @@
 # @onesneakymofo/test-button
 
+## 0.0.7
+
+### Patch Changes
+
+- fafb568: Add tsconfig.json to packages
+- Updated dependencies [fafb568]
+  - @onesneakymofo/test-load-spinner@0.0.6
+
 ## 0.0.6
 
 ### Patch Changes
