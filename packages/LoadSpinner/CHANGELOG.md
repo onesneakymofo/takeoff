@@ -1,5 +1,11 @@
 # @onesneakymofo/test-load-spinner
 
+## 0.0.6
+
+### Patch Changes
+
+- fafb568: Add tsconfig.json to packages
+
 ## 0.0.5
 
 ### Patch Changes
