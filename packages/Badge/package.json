@@ -13,5 +13,8 @@
     "type": "git",
     "url": "git+https://github.com/onesneakymofo/takeoff.git",
     "directory": "packages/Badge"
+  },
+  "peerDependencies": {
+    "react": ">=16.12.0"
   }
 }
