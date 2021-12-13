@@ -1,0 +1,17 @@
+{
+  "name": "@onesneakymofo/test-badge",
+  "version": "0.0.0",
+  "description": "Landing's Badge",
+  "main": "dist/onesneakymofo-test-badge.cjs.js",
+  "module": "dist/onesneakymofo-test-badge.esm.js",
+  "author": "Chris Autwell",
+  "license": "MIT",
+  "publishConfig": {
+    "access": "public"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/onesneakymofo/takeoff.git",
+    "directory": "packages/Badge"
+  }
+}
