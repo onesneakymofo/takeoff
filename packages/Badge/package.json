@@ -1,6 +1,6 @@
 {
   "name": "@onesneakymofo/test-badge",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "Landing's Badge",
   "main": "dist/onesneakymofo-test-badge.cjs.js",
   "module": "dist/onesneakymofo-test-badge.esm.js",
