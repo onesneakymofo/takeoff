@@ -1,6 +1,6 @@
 {
-  "name": "@onesneakymofo/test-load-spinner",
-  "version": "0.0.6",
+  "name": "@onesneakymofo/system",
+  "version": "0.0.0",
   "description": "Landing's Spinner Component",
   "main": "dist/onesneakymofo-test-load-spinner.cjs.js",
   "module": "dist/onesneakymofo-test-load-spinner.esm.js",
@@ -23,12 +23,7 @@
   "devDependencies": {
     "@emotion/styled": "^11.6.0",
     "react": "^17.0.2",
-    "twin.macro": "^2.8.2"
-  },
-  "dependencies": {
-    "@onesneakymofo/test-button": "~0.0.6"
-    "@onesneakymofo/test-load-spinner": "~0.0.6"
-    "@onesneakymofo/test-load-spinner": "~0.0.6"
+    "twin.macro": "^2.8.2",
   },
   "peerDependencies": {
     "@emotion/styled": ">=11.6.0",
