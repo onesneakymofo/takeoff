@@ -1,5 +1,5 @@
 {
-  "name": "@onesneakymofo/system",
+  "name": "@onesneakymofo/test-system",
   "version": "0.0.1",
   "description": "Landing's Spinner Component",
   "main": "dist/onesneakymofo-system.cjs.js",
