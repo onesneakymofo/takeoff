@@ -1,6 +1,6 @@
 import styled from '@emotion/styled'
 
-export const LoadSpinnerStyles = styled.div<{ color: string | null; size: number }>`
+export const LoadSpinnerStyles = styled.div`
   display: inline-block;
   position: relative;
   width: ${(props) => props.size}rem;

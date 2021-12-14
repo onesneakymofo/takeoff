@@ -61,7 +61,6 @@
     "@emotion/react": "^11.6.0",
     "@emotion/styled": "^11.6.0",
     "@manypkg/cli": "^0.19.1",
-    "@onesneakymofo/test-system": "^0.0.2",
     "@preconstruct/cli": "^2.1.5",
     "@storybook/addon-actions": "^6.4.9",
     "@storybook/addon-essentials": "^6.4.9",
