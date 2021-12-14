@@ -2,7 +2,7 @@
 "@onesneakymofo/test-badge": patch
 "@onesneakymofo/test-button": patch
 "@onesneakymofo/test-load-spinner": patch
-"@onesneakymofo/system": patch
+"@onesneakymofo/test-system": patch
 ---
 
-Update more config
+Re-release
