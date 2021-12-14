@@ -64,10 +64,10 @@
     semver "^6.3.0"
     source-map "^0.5.0"
 
-"@babel/eslint-parser@^7.16.3":
-  version "7.16.3"
-  resolved "https://registry.yarnpkg.com/@babel/eslint-parser/-/eslint-parser-7.16.3.tgz#2a6b1702f3f5aea48e00cea5a5bcc241c437e459"
-  integrity sha512-iB4ElZT0jAt7PKVaeVulOECdGe6UnmA/O0P9jlF5g5GBOwDVbna8AXhHRu4s27xQf6OkveyA8iTDv1jHdDejgQ==
+"@babel/eslint-parser@^7.16.5":
+  version "7.16.5"
+  resolved "https://registry.yarnpkg.com/@babel/eslint-parser/-/eslint-parser-7.16.5.tgz#48d3485091d6e36915358e4c0d0b2ebe6da90462"
+  integrity sha512-mUqYa46lgWqHKQ33Q6LNCGp/wPR3eqOYTUixHFsfrSQqRxH0+WOzca75iEjFr5RDGH1dDz622LaHhLOzOuQRUA==
   dependencies:
     eslint-scope "^5.1.1"
     eslint-visitor-keys "^2.1.0"
@@ -2548,15 +2548,6 @@
   dependencies:
     mkdirp "^1.0.4"
     rimraf "^3.0.2"
-
-"@onesneakymofo/test-system@^0.0.2":
-  version "0.0.2"
-  resolved "https://registry.yarnpkg.com/@onesneakymofo/test-system/-/test-system-0.0.2.tgz#6a5943b7493abf87840ee1612409677416a3b248"
-  integrity sha512-G338WKl7p78XfECu81dbbLsTBMPN8UvXsE//Ly/z8471PUbEJPsky9SnFiHwq9fzc85g8JtnaOkF8A8RFjN8Kg==
-  dependencies:
-    "@onesneakymofo/test-badge" "~0.0.2"
-    "@onesneakymofo/test-button" "~0.0.7"
-    "@onesneakymofo/test-load-spinner" "~0.0.7"
 
 "@pmmmwh/react-refresh-webpack-plugin@^0.5.1":
   version "0.5.3"
