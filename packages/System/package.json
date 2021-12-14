@@ -30,7 +30,6 @@
   "dependencies": {
     "@onesneakymofo/test-badge": "~0.0.2",
     "@onesneakymofo/test-button": "~0.0.7",
-    "@onesneakymofo/test-load-spinner": "~0.0.7"
   },
   "peerDependencies": {
     "@emotion/react": "^11.0.0",
