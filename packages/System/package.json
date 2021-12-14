@@ -1,9 +1,9 @@
 {
-  "name": "@onesneakymofo/system",
+  "name": "@onesneakymofo/test-system",
   "version": "0.0.1",
   "description": "Landing's Spinner Component",
-  "main": "dist/onesneakymofo-system.cjs.js",
-  "module": "dist/onesneakymofo-system.esm.js",
+  "main": "dist/onesneakymofo-test-system.cjs.js",
+  "module": "dist/onesneakymofo-test-system.esm.js",
   "author": "Chris Autwell",
   "license": "MIT",
   "publishConfig": {
