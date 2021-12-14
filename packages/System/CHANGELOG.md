@@ -1,6 +1,13 @@
 # @onesneakymofo/system
 
+## 0.0.2
+
+### Patch Changes
+
+- 79f09a4: Change package name
+
 ## 0.0.1
+
 ### Patch Changes
 
 - 80af30f: Add System
