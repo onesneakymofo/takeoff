@@ -1,5 +1,5 @@
 import { Meta, Canvas, Story, ArgsTable } from '@storybook/addon-docs'
-import { LoadSpinner } from '@onesneakymofo/test-load-spinner'
+import { LoadSpinner } from '../../packages/LoadSpinner'
 
 <Meta title="Components/Load Spinner" component={LoadSpinner} />
 
@@ -8,7 +8,7 @@ export const Template = (args) => <LoadSpinner {...args} />
 # Load Spinner
 
 <Canvas>
-  <Story name="Load Spinner" args={{ size: 4, color: '#aaa' }}>
+  <Story name="Load Spinner" args={{ size: 4 }}>
     {Template.bind({})}
   </Story>
 </Canvas>
