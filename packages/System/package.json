@@ -1,6 +1,6 @@
 {
   "name": "@onesneakymofo/test-system",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "description": "Landing's Spinner Component",
   "main": "dist/onesneakymofo-test-system.cjs.js",
   "module": "dist/onesneakymofo-test-system.esm.js",
@@ -28,9 +28,9 @@
     "twin.macro": "^2.8.2"
   },
   "dependencies": {
-    "@onesneakymofo/test-badge": "~0.0.2",
-    "@onesneakymofo/test-button": "~0.0.7",
-    "@onesneakymofo/test-load-spinner": "~0.0.7"
+    "@onesneakymofo/test-badge": "~0.0.3",
+    "@onesneakymofo/test-button": "~0.0.8",
+    "@onesneakymofo/test-load-spinner": "~0.0.8"
   },
   "peerDependencies": {
     "@emotion/react": "^11.0.0",

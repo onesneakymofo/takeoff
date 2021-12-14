@@ -1,5 +1,15 @@
 # @onesneakymofo/system
 
+## 0.0.3
+
+### Patch Changes
+
+- 64a5bb6: Re-release
+- Updated dependencies [64a5bb6]
+  - @onesneakymofo/test-badge@0.0.3
+  - @onesneakymofo/test-button@0.0.8
+  - @onesneakymofo/test-load-spinner@0.0.8
+
 ## 0.0.2
 
 ### Patch Changes
