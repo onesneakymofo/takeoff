@@ -1,9 +1,9 @@
 {
-  "name": "@onesneakymofo/system",
-  "version": "0.0.1",
+  "name": "@onesneakymofo/test-system",
+  "version": "0.0.2",
   "description": "Landing's Spinner Component",
-  "main": "dist/onesneakymofo-system.cjs.js",
-  "module": "dist/onesneakymofo-system.esm.js",
+  "main": "dist/onesneakymofo-test-system.cjs.js",
+  "module": "dist/onesneakymofo-test-system.esm.js",
   "author": "Chris Autwell",
   "license": "MIT",
   "publishConfig": {
@@ -21,6 +21,8 @@
     }
   },
   "devDependencies": {
+    "@babel/preset-react": "^7.16.0",
+    "@emotion/react": "^11.6.0",
     "@emotion/styled": "^11.6.0",
     "react": "^17.0.2",
     "twin.macro": "^2.8.2"
@@ -31,7 +33,8 @@
     "@onesneakymofo/test-load-spinner": "~0.0.7"
   },
   "peerDependencies": {
-    "@emotion/styled": ">=11.6.0",
+    "@emotion/react": "^11.0.0",
+    "@emotion/styled": ">=11.0.0",
     "react": ">=16.12.0",
     "twin.macro": ">=2.8.2"
   }
