@@ -1,5 +1,13 @@
 # @onesneakymofo/test-button
 
+## 0.0.8
+
+### Patch Changes
+
+- 64a5bb6: Re-release
+- Updated dependencies [64a5bb6]
+  - @onesneakymofo/test-load-spinner@0.0.8
+
 ## 0.0.7
 
 ### Patch Changes

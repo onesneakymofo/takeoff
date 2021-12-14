@@ -1,5 +1,11 @@
 # @onesneakymofo/test-load-spinner
 
+## 0.0.8
+
+### Patch Changes
+
+- 64a5bb6: Re-release
+
 ## 0.0.7
 
 ### Patch Changes
