@@ -10,7 +10,7 @@ export interface LoadSpinnerProps {
   size?: number
   alt?: string
 }
-const DEFAULT_COLOR = theme`colors.gray.d`
+const DEFAULT_COLOR = theme`colors.gray.500`
 //shamelessly stolen: https://loading.io/css/
 export function LoadSpinner({
   className = '',
