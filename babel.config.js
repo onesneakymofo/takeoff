@@ -3,8 +3,7 @@ module.exports = {
     "@emotion/babel-preset-css-prop",
     "@babel/preset-react",
     "@babel/preset-env",
-    "@babel/preset-flow",
-    "@babel/preset-typescript"
+    "@babel/preset-flow"
   ],
   plugins: [
     '@emotion/babel-plugin',
