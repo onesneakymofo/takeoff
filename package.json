@@ -54,7 +54,7 @@
     "@babel/preset-env": "^7.16.5",
     "@babel/preset-flow": "^7.16.5",
     "@babel/preset-react": "^7.16.5",
-    "@changesets/cli": "^2.18.1",
+    "@changesets/cli": "^2.21.0",
     "@emotion/babel-plugin": "^11.3.0",
     "@emotion/babel-preset-css-prop": "^11.2.0",
     "@emotion/react": "^11.6.0",
