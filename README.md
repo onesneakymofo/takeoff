@@ -1,7 +1,7 @@
 # Takeoff 🚀
-### Landing's Component Library
+### Headless Component Library
 
-Takeoff is a set of reusable, portable components that powers Landing's design.
+Takeoff is a set of reusable, portable components.
 
 * [Installing](#installing)
     + [About](#about)
