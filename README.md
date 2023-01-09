@@ -68,7 +68,7 @@ $ cd ProgressBar
 $ yarn init
 > question name (ProgressBar): @onesneakymofo/test-progress-bar
 > question version (1.0.0): 0.0.0
-> question description: Landing's Progress Bar
+> question description: Progress Bar
 > question entry point (index.js):
 > question repository url:
 > question author: Chris Autwell
